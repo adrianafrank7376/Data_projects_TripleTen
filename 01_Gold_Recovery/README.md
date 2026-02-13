@@ -39,7 +39,7 @@ Industrial data from mining operations including:
 ![Project Overview](gold_recovery_overview.png)
 
 ### Concentration Distributions by Stage
-![Concentration Distributions](Golg recovery.png)
+![Concentration Distributions](Golg%20recovery.png)
 
 ### Metal Concentration Changes Through Purification
 ![Metal Concentration Analysis](gold_recovery_metal_concentration.png.png)
