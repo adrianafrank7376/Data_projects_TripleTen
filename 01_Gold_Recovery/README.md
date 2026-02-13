@@ -31,6 +31,21 @@ Industrial data from mining operations including:
 - Primary cleaner parameters
 - Final concentrate measurements
 - Gold, silver, and lead concentrations at various stages
+- ---
+
+## 📸 Project Visualizations
+
+### Gold Recovery Process Overview
+![Project Overview](gold_recovery_overview.png)
+
+### Concentration Distributions by Stage
+![Concentration Distributions](Golg recovery.png)
+
+### Metal Concentration Changes Through Purification
+![Metal Concentration Analysis](gold_recovery_metal_concentration.png.png)
+
+### Statistical Analysis
+![Statistical Comparison](gold_recovery_statistics.png.png)
 
 **Key Features:**
 - 53+ features across multiple purification stages
